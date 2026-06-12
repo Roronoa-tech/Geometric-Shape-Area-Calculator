@@ -11,7 +11,6 @@ A console-based Java application that calculates the area of geometric shapes us
 - **Class:** BCA 2A
 - **Course:** Object Oriented Programming With Java (RU-100-01-00012)
 - **University:** Rungta International Skills University, Bhilai, CG
-- **Session:** 2025–26
 - **Guide:** Dr. Harsh Multani
 
 ---
